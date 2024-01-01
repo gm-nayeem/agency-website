@@ -7,8 +7,7 @@ const Home = () => {
       <div className={styles.textContainer}>
         <h1 className={styles.title}>Creative Thoughts Agency.</h1>
         <p className={styles.desc}>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero
-          blanditiis adipisci minima reiciendis a autem assumenda dolore.
+          Agency Website means a website that is connected to the internet and that is owned, operated or funded by a governmental entity.
         </p>
         <div className={styles.buttons}>
           <button className={styles.button}>Learn More</button>
